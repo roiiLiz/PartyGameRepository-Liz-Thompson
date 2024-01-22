@@ -8,6 +8,7 @@ public class PlayerBehavior : MonoBehaviour
     public float speed;
     private float horizontalScreenLimit;
     private float verticalScreenLimit;
+    public AudioClip pickUpSound;
 
     // Start is called before the first frame update
     void Start()
@@ -39,6 +40,7 @@ public class PlayerBehavior : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D trigger) {
         score.score++;
+        AudioSource.PlayClipAtPoint(pickUpSound, transform.position);
         Destroy(trigger.gameObject);
     }
     
