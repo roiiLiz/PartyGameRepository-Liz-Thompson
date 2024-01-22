@@ -8,15 +8,15 @@ https://mixkit.co/free-sound-effects/game/
 - Arcade retro jump
 
 Music -
-Pixelland - Kevin Macleod (Game)
-Hitman - Kevin Macleod (Main Menu)
+- Pixelland - Kevin Macleod (Game)
+- Hitman - Kevin Macleod (Main Menu)
 
 # Art
 All sprites are created by me (Liz Thompson) using Piskelapp.com
 References -
-Windows XP Default Background - Game Background
-Old Windows Logo + Windows Defender Logo - Player Character
-Default File Icon - Viruses
+- Windows XP Default Background - Game Background
+- Old Windows Logo + Windows Defender Logo - Player Character
+- Default File Icon - Viruses
 
 # Documentation
 Game Title & Concept -
